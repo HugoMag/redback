@@ -15,8 +15,8 @@
   "engines": { "node": ">= 0.4.0" },
   "dependencies": {
     "hiredis": ">= 0.1.9",
-    "redis": ">= 0.6.0"
-    "underscore": ">= 1.1.7",
+    "redis": ">= 0.6.0",
+    "underscore": ">= 1.1.7"
   },
   "contributors": [
     { "name": "Sreekanth", "github": "https://github.com/sreeix", "email": "sreeix@gmail.com" }
