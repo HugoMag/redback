@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/chriso/redback.git"
+    "url": "http://github.com/HugoMag/redback.git"
   },
   "engines": { "node": ">= 0.4.0" },
   "dependencies": {
